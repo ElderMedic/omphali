@@ -1,7 +1,7 @@
 # omphali
 hello_world repository for KCL
 
-This is naive coder Changlin Ke's github acconut.
+This is naive coder Changlin Ke's github account.
 
 learning python3.x & c++.
 
